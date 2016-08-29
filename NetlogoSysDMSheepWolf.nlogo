@@ -102,7 +102,7 @@ sheep
 @#$#@#$#@
 ## WHAT IS IT?
 
-(a general understanding of what the model is trying to show or explain)
+A System Dynamics Model for a Sheep Wolf Ecosystem.
 
 ## HOW IT WORKS
 
@@ -110,7 +110,9 @@ sheep
 
 ## HOW TO USE IT
 
-(how to use the model, including a description of each of the items in the Interface tab)
+* The 'Setup' button sets up the simulation.
+* The 'Go' button starts the simulation.
+* The plot shows wolf and sheep population over the course of the simulation.
 
 ## THINGS TO NOTICE
 
@@ -118,7 +120,7 @@ sheep
 
 ## THINGS TO TRY
 
-(suggested things for the user to try to do (move sliders, switches, etc.) with the model)
+Try changing the rate of change of sheep births, and other variables in the simulation.
 
 ## EXTENDING THE MODEL
 
